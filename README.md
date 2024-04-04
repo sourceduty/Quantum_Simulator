@@ -1,6 +1,6 @@
 ![Quantum](https://github.com/sourceduty/Quantum_Simulator/assets/123030236/9045418d-5ccb-4e35-8061-4305807f176e)
 
-⚛️ Emulating aspects of quantum computing simulations using basic Python libraries with ChatGPT.
+> ⚛️ Emulating aspects of quantum computing simulations using basic Python libraries and ChatGPT.
 
 #
 
