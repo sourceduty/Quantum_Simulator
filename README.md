@@ -1,6 +1,8 @@
 ![Quantum](https://github.com/sourceduty/Quantum_Simulator/assets/123030236/9045418d-5ccb-4e35-8061-4305807f176e)
 
-Emulating aspects of quantum computing simulations using basic Python libraries with ChatGPT.
+⚛️ Emulating aspects of quantum computing simulations using basic Python libraries with ChatGPT.
+
+#
 
 [Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator) was developed to simplify and demonstrate quantum computing concepts through practical, hands-on assistance and guidance. It emulates aspects of quantum computing simulations, including the construction and simulation of quantum circuits, application of quantum gates, implementation of quantum algorithms, introduction to quantum error correction, and visualization of quantum states. The goal is to make quantum computing more accessible and understandable, breaking down complex principles into easier-to-grasp concepts with Python code examples.
 
